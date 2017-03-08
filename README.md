@@ -1,6 +1,8 @@
 # Suicide_Detect_Railway
 OpenCV (C++) code that uses blob detection and background modelling to detect a possible suicide attempt
 
+Demo available on https://www.youtube.com/watch?v=pz3rC0eaC2U
+
 The algorithm works for well for open tracks. It involves the following steps:
 
 -Create rectangular ROI at the track center
